@@ -1,0 +1,8 @@
+﻿  main.cpp
+h:\opencv_test\007\main.cpp(23): warning C4305: “初始化”: 从“double”到“float”截断
+h:\opencv_test\007\main.cpp(40): warning C4244: “=”: 从“float”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+  007.vcxproj -> H:\opencv_test\007\x64\Debug\007.exe
